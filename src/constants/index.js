@@ -23,6 +23,7 @@ import {
   threejs,
   taskpro,
   filmoteka,
+  nike,
 } from "../assets";
 
 export const navLinks = [
@@ -168,6 +169,32 @@ const projects = [
     ],
     image: indie,
     source_code_link: "https://github.com/Kostiantyn1303/creative-indiev",
+  },
+  {
+    name: "Nike",
+    description:
+      "Nike is a sleek and modern layout is crafted to provide you with an immersive browsing experience.Dive into the world of style and innovation, and find the perfect pair that matches your lifestyle.",
+    site: "https://serhiirepinskyi.github.io/project-future777-frontend/welcome",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "vite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+    ],
+    image: nike,
+    source_code_link: "https://github.com/Kostiantyn1303/nike-store",
   },
   {
     name: "Task pro",

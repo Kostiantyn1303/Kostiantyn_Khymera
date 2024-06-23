@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import nike from "./nike.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -65,4 +66,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  nike,
 };
