@@ -174,7 +174,7 @@ const projects = [
     name: "Nike",
     description:
       "Nike is a sleek and modern layout is crafted to provide you with an immersive browsing experience.Dive into the world of style and innovation, and find the perfect pair that matches your lifestyle.",
-    site: "https://serhiirepinskyi.github.io/project-future777-frontend/welcome",
+    site: "https://nike-store-85c7.onrender.com",
     tags: [
       {
         name: "react",
