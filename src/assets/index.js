@@ -32,8 +32,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import filmoteka from "./filmoteka.png";
+import podcast from "./podcast.webp";
 export {
   filmoteka,
+  podcast,
   taskpro,
   indie,
   next,

@@ -24,6 +24,7 @@ import {
   taskpro,
   filmoteka,
   nike,
+  podcast,
 } from "../assets";
 
 export const navLinks = [
@@ -245,6 +246,28 @@ const projects = [
     image: filmoteka,
     source_code_link:
       "https://github.com/Kostiantyn1303/filmoteka-team-project",
+  },
+  {
+    name: "Start Podcast",
+    description:
+      "The landing page for Start Podcast is designed to effectively promote and sell our comprehensive podcast video service. This page aims to attract visitors, inform them about the service's capabilities, and convert them into customers.",
+    site: "#",
+    tags: [
+      {
+        name: "js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "webflow",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: podcast,
+    source_code_link: "https://www.start-podcast.com",
   },
 ];
 
