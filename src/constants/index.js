@@ -251,7 +251,7 @@ const projects = [
     name: "Start Podcast",
     description:
       "The landing page for Start Podcast is designed to effectively promote and sell our comprehensive podcast video service. This page aims to attract visitors, inform them about the service's capabilities, and convert them into customers.",
-    site: "#",
+    site: "https://www.start-podcast.com/",
     tags: [
       {
         name: "js",
@@ -267,7 +267,7 @@ const projects = [
       },
     ],
     image: podcast,
-    source_code_link: "https://www.start-podcast.com",
+    source_code_link: "#",
   },
 ];
 
